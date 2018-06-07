@@ -1,1 +1,3 @@
-# L_cmdlab
+# CMD Lab
+
+Place for documenting cmd usage.
